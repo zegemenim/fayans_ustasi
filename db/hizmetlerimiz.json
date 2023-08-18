@@ -7,13 +7,19 @@
     "img": "/fayans.jpeg"
   },
   {
-    "id": 1,
+    "id": 2,
     "title": "Fayans Döşeme",
     "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus commodi cum deserunt\n                                dolorem fugit inventore, iure laborum molestias nemo nobis perspiciatis qui quidem quod\n                                repellat rerum soluta suscipit tempora voluptas?",
     "img": "/fayans.jpeg"
   },
   {
-    "id": 1,
+    "id": 3,
+    "title": "Fayans Döşeme",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus commodi cum deserunt\n                                dolorem fugit inventore, iure laborum molestias nemo nobis perspiciatis qui quidem quod\n                                repellat rerum soluta suscipit tempora voluptas?",
+    "img": "/fayans.jpeg"
+  },
+  {
+    "id": 4,
     "title": "Fayans Döşeme",
     "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus commodi cum deserunt\n                                dolorem fugit inventore, iure laborum molestias nemo nobis perspiciatis qui quidem quod\n                                repellat rerum soluta suscipit tempora voluptas?",
     "img": "/fayans.jpeg"
