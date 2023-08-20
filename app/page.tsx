@@ -18,7 +18,7 @@ export default function Home() {
                             Güvenilir ve Kaliteli Hizmet
                         </div>
                         <Link
-                            className={"flex border-2 border-blue-500 rounded-lg p-2 text-white text-md hover:text-lg hover:shadow-2xl shadow-blue-900 ease-in-out duration-300"}
+                            className={"flex border-2 border-blue-500 rounded-lg p-2 text-white text-md hover:text-lg shadow-md shadow-blue-500 ease-in duration-300 hover:shadow-lg"}
                             href={""}>
                             İletişime Geç
                         </Link>
